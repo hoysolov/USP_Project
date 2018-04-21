@@ -9,5 +9,6 @@ public class Main {
 		myStorage.addStockInStorage(new Phone("Huawei P20", "myProcess", 2, 5, 250, 27));
 		System.out.println();
 		myStorage.searchStock("Huawei");
+		
 	}
 }

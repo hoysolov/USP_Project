@@ -23,5 +23,4 @@ public abstract class Stock {
 	public String getMakeModel() {
 		return makeModel;
 	}
-	
 }
