@@ -8,7 +8,6 @@ public class Monitor extends Stock{
 		this.screenSize = screenSize;
 	}
 
-
 	public String toString() {
 		return "Stock: " + super.getMakeModel() + " Screen size: " + screenSize + " Quantity: " + super.getQuantity()
 				+ " Price: " + super.getPrice();
