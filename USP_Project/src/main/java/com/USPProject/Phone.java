@@ -17,5 +17,4 @@ public class Phone extends Stock {
 		return "Stock: " + super.getMakeModel() + " Screen size: " + screenSize + " Processor: " + processor
 				+ " Ram: " + ram + " Quantity: " + super.getQuantity() + " Price: " + super.getPrice();
 	}
-
 }
